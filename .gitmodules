@@ -1,0 +1,3 @@
+[submodule "FRONTEND"]
+	path = FRONTEND
+	url = https://github.com/Costin2/Proiect-.Net-v2
